@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.10)  11 FEB 2021 12:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.2.10)  11 FEB 2021 13:40
 entering extended mode
 **./Module2_Rmd1.tex
 (Module2_Rmd1.tex
@@ -620,29 +620,39 @@ File: Module2_Rmd1_files/figure-latex/pressure2-1.pdf Graphic file (type pdf)
 Package pdftex.def Info: Module2_Rmd1_files/figure-latex/pressure2-1.pdf  used 
 on input line 327.
 (pdftex.def)             Requested size: 289.09251pt x 289.09251pt.
-[3 <./Module2_Rmd1_files/figure-latex/pressure-1.pdf>] [4 <./Module2_Rmd1_files
-/figure-latex/pressure2-1.pdf>] (Module2_Rmd1.aux) ) 
+[3 <./Module2_Rmd1_files/figure-latex/pressure-1.pdf>]
+<sunstar.png, id=56, 139.64671pt x 136.25906pt>
+File: sunstar.png Graphic file (type png)
+<use sunstar.png>
+Package pdftex.def Info: sunstar.png  used on input line 369.
+(pdftex.def)             Requested size: 139.65062pt x 136.26286pt.
+[4 <./Module2_Rmd1_files/figure-latex/pressure2-1.pdf>] [5 <./sunstar.png>] (Mo
+dule2_Rmd1.aux) ) 
 Here is how much of TeX's memory you used:
- 13875 strings out of 479618
- 207471 string characters out of 2865026
- 534768 words of memory out of 3000000
- 30715 multiletter control sequences out of 15000+200000
+ 13889 strings out of 479618
+ 207628 string characters out of 2865026
+ 534804 words of memory out of 3000000
+ 30723 multiletter control sequences out of 15000+200000
  456383 words of font info for 99 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  85i,6n,88p,519b,489s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/adria/AppData/Loc
-al/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/Users/adria/AppData/Local/
-Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/adria/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/adria/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/adria/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/adria/AppData/Local/Progr
-ams/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/adria/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/adria/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/adria/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Module2_Rmd1.pdf (4 pages, 191400 bytes).
+{C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/
+lm/lm-rm.enc}{C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/l
+m-mathit.enc}{C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/l
+m-ts1.enc}{C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-e
+c.enc}<C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx1
+0.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx1
+2.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi1
+0.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10
+.pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.
+pfb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.p
+fb><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb
+><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb
+><C:/Users/adria/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb
+>
+Output written on Module2_Rmd1.pdf (5 pages, 231163 bytes).
 PDF statistics:
- 117 PDF objects out of 1000 (max. 8388607)
- 31 named destinations out of 1000 (max. 500000)
- 30771 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 142 PDF objects out of 1000 (max. 8388607)
+ 35 named destinations out of 1000 (max. 500000)
+ 30784 words of extra memory for PDF output out of 35830 (max. 10000000)
 

@@ -3,9 +3,9 @@ title: "Module2 - R Markdown Doc 1"
 author: "Magdalena"
 date: "10/02/2021"
 output:
-  html_document: default
   word_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -129,3 +129,28 @@ knitr::kable(head(cars),
 ##Insert an equation
 
 $$ Y = \beta_0 + \beta_1x $$
+
+
+## Insert Images
+
+Here is an image inserted
+
+![sunstar](sunstar.png)
+
+## Insert and animated gif and video
+
+![sunstar](sunstar/sunstar.gif)
+![sunstar](sunstar/sunstar.mp4)
+
+#insert text with footnotes
+
+Here is footnote reference [^1] and another [^longnote]
+
+Here is an inline footnote ^[Inline notes are easier to write since you ont have to pick ...]
+
+[^1]: Here is the footnote.
+[^longnote]:Here´sonw with multiple blocks
+
+
+
+
